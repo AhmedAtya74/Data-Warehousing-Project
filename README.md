@@ -1,7 +1,7 @@
 # Data Warehousing Project
 
 
-## Data Warehousing Structur
+## Data Warehousing structure
 ![image](https://user-images.githubusercontent.com/64374947/120225527-af07fb80-c245-11eb-84a6-f3143d3d373e.png)
 
 ## Data warehousing subject
