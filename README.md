@@ -4,6 +4,9 @@
 ## Data Warehousing Structur
 ![image](https://user-images.githubusercontent.com/64374947/120225527-af07fb80-c245-11eb-84a6-f3143d3d373e.png)
 
+## Data warehousing subject
+analyzing services for telecom company using datasets from Kaggle
+
 ## Phases
 1. Collect data from differant source and ETL operation
 2. Data warehouse modeling [Star schema]
