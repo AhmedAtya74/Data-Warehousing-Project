@@ -27,9 +27,7 @@ analyzing services for telecom company using datasets from Kaggle
 ![image](https://user-images.githubusercontent.com/64374947/120226343-4ae63700-c247-11eb-9d64-f02a0fec3f41.png)
 
 ## Data visualization using Power bi
-![image](https://user-images.githubusercontent.com/64374947/120226632-d9f34f00-c247-11eb-9b76-daa48d4ff372.png)
 ![image](https://user-images.githubusercontent.com/64374947/120226600-cf38ba00-c247-11eb-8273-028c9383c59b.png)
-![image](https://user-images.githubusercontent.com/64374947/120226578-c47e2500-c247-11eb-894e-1cb497a6026f.png)
 
 
 
