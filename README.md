@@ -10,7 +10,8 @@ analyzing services for telecom company using datasets from Kaggle
 ## Phases
 1. Collect data from differant source and ETL operation
 2. Data warehouse modeling [Star schema]
-3. Build cube and MDX queries and reporting
+3. Build cube and MDX queries
+4. Reporting with Power bi
 
 ## Mesure
 1. Total profit
